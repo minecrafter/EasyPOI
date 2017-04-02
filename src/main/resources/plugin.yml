@@ -1,0 +1,6 @@
+name: EasyPOI
+version: ${project.version}
+main: today.crafting.easypoi.EasyPOI
+commands:
+  poi:
+    description: Manage POI markers.

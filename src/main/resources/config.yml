@@ -1,0 +1,6 @@
+overviewer-location: /usr/bin/overviewer.py
+worlds:
+  world:
+    poi-file: /home/minecraft/pois/world.json
+    overviewer-map: /home/minecraft/overviewer-map
+    overviewer-configuration: /home/minecraft/pois/overviewer-world.py
